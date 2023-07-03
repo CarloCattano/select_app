@@ -1,6 +1,8 @@
 # select_app
 rofi wayland app chooser
 
+modified theme from https://github.com/adi1090x/rofi
+
 ```bash
 rofi -V
 Version: 1.7.5+wayland1-41-g61f96e4c (wayland)
