@@ -1,1 +1,8 @@
-/home/carlo/.config/rofi/mine/dark.rasi
+* {
+  accent:           #A9C03F;
+  background:       #141c21;
+  background-light: #1C252A;
+  foreground:       #93a1a1;
+  on:               #5BB462;
+  off:              #AFAFAF;
+}
