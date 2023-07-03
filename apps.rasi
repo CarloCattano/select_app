@@ -6,7 +6,7 @@ configuration {
 	
 }
 
-@import "/home/carlo/.config/rofi/mine/colors.rasi"
+@import "colors.rasi"
 
 * {
     background-color:               @background;
