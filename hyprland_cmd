@@ -1,0 +1,1 @@
+bind=$Mod, G, exec, rofi -theme ~/.config/rofi/mine/apps.rasi -i -I -show-icons -show window -selected-row 0 -p "Select app"
